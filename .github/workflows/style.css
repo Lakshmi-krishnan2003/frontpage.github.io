@@ -1,0 +1,14 @@
+* {
+  margin: 4px;
+  text-align: center;
+}
+table,
+th,
+td {
+  border: 2px solid black;
+  font-size: 40px;
+  width: 100%;
+  background-color: aqua;
+  border-collapse: collapse;
+  border-radius: 10px;
+}
